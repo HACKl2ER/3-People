@@ -1,5 +1,5 @@
 function myMove(){
- var elem = document.getElemenByld("myAnimation");
+ var elem = document.getElementByld("myAnimation");
  var pos =0;
  var id=setlnterval(frame, 10);
  function frame(){
